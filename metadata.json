@@ -1,0 +1,8 @@
+{
+  "name": "Real-Time Tic-Tac-Toe",
+  "description": "A real-time multiplayer Tic-Tac-Toe game with a unique room system using Socket.io and Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
